@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CYBERSTREAM</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on CYBERSTREAM</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Termux: Complete Guide to Switching from APT to Pacman</title>
+      <link>http://localhost:1313/docs/termux_complete_guide_to_switching_from_apt_to_pacman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/termux_complete_guide_to_switching_from_apt_to_pacman/</guid>
+      <description>&lt;h1 id=&#34;termux-complete-guide-to-switching-from-apt-to-pacman&#34;&gt;Termux: Complete Guide to Switching from APT to Pacman &lt;a href=&#34;#termux-complete-guide-to-switching-from-apt-to-pacman&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h1&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction &lt;a href=&#34;#introduction&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Welcome to this comprehensive guide on switching your Termux package manager from APT to Pacman. If you&amp;rsquo;re new to Termux or Linux package managers, don&amp;rsquo;t worry—this guide will explain everything step by step, including what each command does and why it&amp;rsquo;s necessary.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-a-package-manager&#34;&gt;What is a Package Manager? &lt;a href=&#34;#what-is-a-package-manager&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A package manager is like an app store for command-line programs. It helps you install, update, and remove software packages on your system. Think of it as a tool that automates the process of downloading, installing, and managing software dependencies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
